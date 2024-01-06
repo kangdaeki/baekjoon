@@ -1,0 +1,20 @@
+2023-12-29 18:04:13 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(wshada):E137: ShaDa file is not writable: C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+

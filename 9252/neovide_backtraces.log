@@ -1,0 +1,1460 @@
+2023-12-31 02:32:12 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(wshada):E136: Can't rename ShaDa file from C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada.tmp.d to C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada!")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:32:43 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:32:44 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:32:49 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:33:08 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:33:08 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:33:08 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:33:08 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:33:08 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:33:10 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:33:12 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:52:41 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:52:50 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:53:15 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:53:18 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:53:18 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:05 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:05 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:05 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:05 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:05 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:05 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:05 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:05 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:05 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:05 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:05 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:05 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:05 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:09 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:12 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:18 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:25 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:25 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:25 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:25 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:25 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:55:59 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:02 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:05 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:11 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:11 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:11 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:11 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:11 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:13 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:15 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:21 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:24 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:38 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:40 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:45 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:46 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:49 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:51 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:54 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:56:56 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:57:04 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:57:06 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:57:09 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:57:10 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E886: System error while opening ShaDa file C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada for reading: no such file or directory")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:59:16 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(wshada):E137: ShaDa file is not writable: C:\\Users\\user\\AppData\\Local\\nvim-data\\shada\\main.shada")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:59:19 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E576: Error while reading ShaDa file: last entry specified that it occupies 4 bytes, but file ended earlier")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 02:59:19 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E576: Error while reading ShaDa file: last entry specified that it occupies 4 bytes, but file ended earlier")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 03:00:50 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E576: Error while reading ShaDa file: last entry specified that it occupies 4 bytes, but file ended earlier")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 03:00:52 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E576: Error while reading ShaDa file: last entry specified that it occupies 4 bytes, but file ended earlier")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 03:01:26 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E576: Error while reading ShaDa file: last entry specified that it occupies 4 bytes, but file ended earlier")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 03:01:27 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E576: Error while reading ShaDa file: last entry specified that it occupies 4 bytes, but file ended earlier")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 03:01:29 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E576: Error while reading ShaDa file: last entry specified that it occupies 4 bytes, but file ended earlier")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 03:01:30 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E576: Error while reading ShaDa file: last entry specified that it occupies 4 bytes, but file ended earlier")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 03:01:41 - Neovide panicked with the message 'Focus Lost Failed: NeovimError(Some(0), "FocusLost Autocommands for \"*\": Vim(rshada):E576: Error while reading ShaDa file: last entry specified that it occupies 4 bytes, but file ended earlier")'. (File: src\bridge\ui_commands.rs; Line: 149, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 03:01:44 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E576: Error while reading ShaDa file: last entry specified that it occupies 4 bytes, but file ended earlier")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
+2023-12-31 03:02:03 - Neovide panicked with the message 'Focus Gained Failed: NeovimError(Some(0), "FocusGained Autocommands for \"*\": Vim(rshada):E576: Error while reading ShaDa file: last entry specified that it occupies 4 bytes, but file ended earlier")'. (File: src\bridge\ui_commands.rs; Line: 153, Column: 18)
+   0: <unknown>
+   1: <unknown>
+   2: <unknown>
+   3: <unknown>
+   4: <unknown>
+   5: <unknown>
+   6: <unknown>
+   7: <unknown>
+   8: <unknown>
+   9: <unknown>
+  10: <unknown>
+  11: <unknown>
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: BaseThreadInitThunk
+  17: RtlUserThreadStart
+
