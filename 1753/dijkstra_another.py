@@ -12,7 +12,7 @@ for _ in range(E):
     graph[u].append((v,w))
 q.put((0,K))
 distance[K]=0
-while q:
+while q.qsize()>0:
     current=q.get()
     c_v=current[1]
     if visited[c_v]: continue
@@ -23,6 +23,6 @@ while q:
             q.put((distance[v],v))
 for i in range(1,V+1):
     if visited[i]:
-        print(dist[i])
+        print(distance[i])
     else:
         print("INF")
