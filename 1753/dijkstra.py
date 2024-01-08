@@ -4,11 +4,13 @@ V,E=map(int,input().split())
 K=int(input())
 import collections
 graph=collections.defaultdict(list)
+#graph=[[] for _ in range(V+1)]
 for _ in range(E):
     u,v,w=map(int,input().split())
     graph[u].append((v,w))
 Q=[(0,K)]
 dist=collections.defaultdict(int)
+#dist={}
 import heapq
 while Q:
     time,node=heapq.heappop(Q)

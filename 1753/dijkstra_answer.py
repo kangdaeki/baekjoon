@@ -13,8 +13,7 @@ for _ in range(E):
 q.put((0,K))
 distance[K]=0
 while q.qsize()>0:
-    current=q.get()
-    c_v=current[1]
+    c_d,c_v=q.get()
     if visited[c_v]: continue
     visited[c_v]=True
     for v,w in graph[c_v]:
