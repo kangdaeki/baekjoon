@@ -1,0 +1,7 @@
+a=int(input())
+b=int(input())
+c=int(input())
+if 60==a and 60==b and 60==c: print("Equilateral")
+elif 180!=a+b+c: print("Error")
+elif a==b or b==c or a==c: print("Isosceles")
+else: print("Scalene")

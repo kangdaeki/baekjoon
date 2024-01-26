@@ -1,0 +1,5 @@
+a,b,c=map(int,input().split())
+if a>=b+c: print(2*(b+c)-1)
+elif b>=a+c: print(2*(a+c)-1)
+elif c>=a+b: print(2*(a+b)-1)
+else: print(a+b+c)
