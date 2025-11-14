@@ -12,6 +12,7 @@ def find_set(x):
     r=x
     while r!=p[r]:
         r=p[r]
+    # path compression
     while x!=p[x]:
         y=p[x]
         p[x]=r
